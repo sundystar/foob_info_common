@@ -1,0 +1,1 @@
+# foob_info_common
